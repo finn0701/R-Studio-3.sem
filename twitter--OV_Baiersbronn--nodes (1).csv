@@ -1,8 +1,8 @@
 id,handle,followers_count,friends_count,isProxy
-roteskreuz_de,"roteskreuz_de",109702,1872,0
-rettung_de,"rettung_de",4342,158,0
-DRKStuttgart,"DRKStuttgart",1464,286,0
-RegierungBW,"RegierungBW",94492,1294,0
-HiOrgServer,"HiOrgServer",244,4,0
-Baiersbronn,"Baiersbronn",88,0,0
-JeanHenriDunant,"JeanHenriDunant",201,493,0
+0,"roteskreuz_de",109702,1872,0
+1,"rettung_de",4342,158,0
+2,"DRKStuttgart",1464,286,0
+3,"RegierungBW",94492,1294,0
+4,"HiOrgServer",244,4,0
+5,"Baiersbronn",88,0,0
+6,"JeanHenriDunant",201,493,0
